@@ -6,4 +6,4 @@ $ python3 pong.py
 
 !!! game sounds work on Linux
 
-Source https://www.freecodecamp.org/
+Source freecodecamp.org
